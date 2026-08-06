@@ -1,0 +1,2 @@
+LANDING_PATH = "/mnt/landing"
+PERIODO_DEFAULT = "202608"
